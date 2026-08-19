@@ -1,6 +1,6 @@
 # apis_scrips
 
-Scripts Python para extraer datos de la API de Vicarius vRx.
+Scripts Python para extraer los parches disponible por assets 
 
 ## Requisitos
 
